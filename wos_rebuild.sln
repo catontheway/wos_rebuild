@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balanceserver", "balanceserver\balanceserver.csproj", "{5D015687-A8E2-4F30-82F4-8A06C3FF000D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gameserver", "gameserver\gameserver.csproj", "{A7F965E2-B880-471B-ABB3-29E1A706E94C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masterserver", "masterserver\masterserver.csproj", "{42E32C20-2754-4208-A14B-B67D6B2CA21A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamicdataserver", "dynamicdataserver\dynamicdataserver.csproj", "{527BEA8B-937C-4925-B7D9-17E0D5F65BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D015687-A8E2-4F30-82F4-8A06C3FF000D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5D015687-A8E2-4F30-82F4-8A06C3FF000D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5D015687-A8E2-4F30-82F4-8A06C3FF000D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5D015687-A8E2-4F30-82F4-8A06C3FF000D}.Release|anycpu.Build.0 = Release|anycpu
+		{A7F965E2-B880-471B-ABB3-29E1A706E94C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A7F965E2-B880-471B-ABB3-29E1A706E94C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A7F965E2-B880-471B-ABB3-29E1A706E94C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A7F965E2-B880-471B-ABB3-29E1A706E94C}.Release|anycpu.Build.0 = Release|anycpu
+		{42E32C20-2754-4208-A14B-B67D6B2CA21A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{42E32C20-2754-4208-A14B-B67D6B2CA21A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{42E32C20-2754-4208-A14B-B67D6B2CA21A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{42E32C20-2754-4208-A14B-B67D6B2CA21A}.Release|anycpu.Build.0 = Release|anycpu
+		{527BEA8B-937C-4925-B7D9-17E0D5F65BB0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{527BEA8B-937C-4925-B7D9-17E0D5F65BB0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{527BEA8B-937C-4925-B7D9-17E0D5F65BB0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{527BEA8B-937C-4925-B7D9-17E0D5F65BB0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
